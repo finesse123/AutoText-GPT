@@ -1,0 +1,16 @@
+
+
+#### **Python Libraries to Import**  
+```python
+import nltk
+import numpy as np
+import pandas as pd
+import random
+from collections import Counter
+```
+
+#### **Installation (if not installed)**  
+Run the following command:  
+```bash
+pip install nltk numpy pandas
+```
